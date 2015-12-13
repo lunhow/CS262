@@ -1,0 +1,9 @@
+C:\Users\harryweng\Documents\GitHub\CS262\MovieTheaterTicketSystem\MovieTheaterTicketSystem\bin\Debug\MovieTheaterTicketSystem.exe.config
+C:\Users\harryweng\Documents\GitHub\CS262\MovieTheaterTicketSystem\MovieTheaterTicketSystem\bin\Debug\MovieTheaterTicketSystem.exe
+C:\Users\harryweng\Documents\GitHub\CS262\MovieTheaterTicketSystem\MovieTheaterTicketSystem\bin\Debug\MovieTheaterTicketSystem.pdb
+C:\Users\harryweng\Documents\GitHub\CS262\MovieTheaterTicketSystem\MovieTheaterTicketSystem\obj\Debug\MovieTheaterTicketSystem.csprojResolveAssemblyReference.cache
+C:\Users\harryweng\Documents\GitHub\CS262\MovieTheaterTicketSystem\MovieTheaterTicketSystem\obj\Debug\MovieTheaterTicketSystem.Form1.resources
+C:\Users\harryweng\Documents\GitHub\CS262\MovieTheaterTicketSystem\MovieTheaterTicketSystem\obj\Debug\MovieTheaterTicketSystem.Properties.Resources.resources
+C:\Users\harryweng\Documents\GitHub\CS262\MovieTheaterTicketSystem\MovieTheaterTicketSystem\obj\Debug\MovieTheaterTicketSystem.csproj.GenerateResource.Cache
+C:\Users\harryweng\Documents\GitHub\CS262\MovieTheaterTicketSystem\MovieTheaterTicketSystem\obj\Debug\MovieTheaterTicketSystem.exe
+C:\Users\harryweng\Documents\GitHub\CS262\MovieTheaterTicketSystem\MovieTheaterTicketSystem\obj\Debug\MovieTheaterTicketSystem.pdb
