@@ -1,0 +1,8 @@
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example01\bin\Debug\Example01.exe.config
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example01\bin\Debug\Example01.exe
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example01\bin\Debug\Example01.pdb
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example01\bin\Debug\EmployeeLibrary.dll
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example01\bin\Debug\EmployeeLibrary.pdb
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example01\obj\Debug\Example01.exe
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example01\obj\Debug\Example01.pdb

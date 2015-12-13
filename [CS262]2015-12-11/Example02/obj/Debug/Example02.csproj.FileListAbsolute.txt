@@ -1,0 +1,8 @@
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example02\bin\Debug\Example02.exe.config
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example02\bin\Debug\Example02.exe
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example02\bin\Debug\Example02.pdb
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example02\obj\Debug\Example02.Properties.Resources.resources
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example02\obj\Debug\Example02.csproj.GenerateResource.Cache
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example02\obj\Debug\Example02.exe
+c:\users\harryweng\documents\visual studio 2013\Projects\[CS262]2015-12-11\Example02\obj\Debug\Example02.pdb
